@@ -1,0 +1,160 @@
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\NuevoLaboratorio.dll.config
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\NuevoLaboratorio.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\NuevoLaboratorio.pdb
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\csc.exe
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\csc.exe.config
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\csc.rsp
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\csi.exe
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\csi.exe.config
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\csi.rsp
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.AppContext.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Console.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Net.Http.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\vbc.exe
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\vbc.exe.config
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\vbc.rsp
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Antlr3.Runtime.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Clases.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Model.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Newtonsoft.Json.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\System.Web.Optimization.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\WebGrease.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Clases.pdb
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Model.pdb
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\System.Web.Optimization.xml
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Newtonsoft.Json.xml
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Antlr3.Runtime.pdb
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\obj\Debug\NuevoLaboratorio.csproj.AssemblyReference.cache
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\obj\Debug\NuevoLaboratorio.csproj.CoreCompileInputs.cache
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\obj\Debug\NuevoLaboratorio.csproj.CopyComplete
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\obj\Debug\NuevoLaboratorio.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\obj\Debug\NuevoLaboratorio.pdb
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\NuevoLaboratorio.dll.config
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\NuevoLaboratorio.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\NuevoLaboratorio.pdb
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\csc.exe
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\csc.exe.config
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\csc.rsp
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\csi.exe
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\csi.exe.config
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\csi.rsp
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.AppContext.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Console.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Net.Http.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\vbc.exe
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\vbc.exe.config
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\vbc.rsp
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Antlr3.Runtime.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Clases.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Model.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Newtonsoft.Json.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\System.Web.Optimization.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\WebGrease.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Clases.pdb
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Model.pdb
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\System.Web.Optimization.xml
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Newtonsoft.Json.xml
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Antlr3.Runtime.pdb
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\obj\Debug\NuevoLaboratorio.csproj.AssemblyReference.cache
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\obj\Debug\NuevoLaboratorio.csproj.CoreCompileInputs.cache
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\obj\Debug\NuevoLaboratorio.csproj.CopyComplete
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\obj\Debug\NuevoLaboratorio.dll
+C:\Users\Ebl1s\Desktop\revisar que carajo hay ACA\CAEEP 2022\Algoritmos\NuevoLaboratorio\NuevoLaboratorio\obj\Debug\NuevoLaboratorio.pdb

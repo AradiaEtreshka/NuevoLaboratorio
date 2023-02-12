@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuevoLaboratorio", "NuevoLaboratorio\NuevoLaboratorio.csproj", "{568FE55B-9AB4-43EB-847A-93221AC48183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{FB6CC399-ED3B-4B09-8FCA-2303E58209F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{6E3A3E9F-8EE9-4B18-9FE5-F98C4331B4B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{568FE55B-9AB4-43EB-847A-93221AC48183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568FE55B-9AB4-43EB-847A-93221AC48183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568FE55B-9AB4-43EB-847A-93221AC48183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568FE55B-9AB4-43EB-847A-93221AC48183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB6CC399-ED3B-4B09-8FCA-2303E58209F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6CC399-ED3B-4B09-8FCA-2303E58209F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6CC399-ED3B-4B09-8FCA-2303E58209F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6CC399-ED3B-4B09-8FCA-2303E58209F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E3A3E9F-8EE9-4B18-9FE5-F98C4331B4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3A3E9F-8EE9-4B18-9FE5-F98C4331B4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3A3E9F-8EE9-4B18-9FE5-F98C4331B4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3A3E9F-8EE9-4B18-9FE5-F98C4331B4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C9CA869-75CE-4CCB-89BB-1A07BC33FA9C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\Clases\bin\Debug\Clases.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\Clases\bin\Debug\Clases.pdb
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\Clases\obj\Debug\Clases.dll
+C:\Users\Ebl1s\Desktop\CAEEP 2022\Algoritmos\NuevoLaboratorio\Clases\obj\Debug\Clases.pdb
